@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+F1,1206,1,500 mA,
+H1,MountingHole_2.2mm_M2,1,MountingHole,
+H2,MountingHole_2.2mm_M2_DIN965_Pad,1,MountingHole_Pad,
+J1,TYPE-C_24P_QCHT,1,USB C Connector,C456013
+J2,PinHeader_1x06_P2.54mm_Vertical,1,Conn_01x06,
+R1,0603,1,1M,C25190
+R2,0603,1,5.1k,C25744
+R3,0603,1,5.1k,C25744
+"U1, U2",SOT-23-6,2,USBLC6-2SC6,
